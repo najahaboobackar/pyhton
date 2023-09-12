@@ -1,5 +1,7 @@
-i=3
-while i!=0:
+for i in range(5):
     print("meow")
-    i=i-1
+
+        
+        
+
     

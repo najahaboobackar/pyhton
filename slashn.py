@@ -1,0 +1,1 @@
+print("mew\n"*3, end="")
